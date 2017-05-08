@@ -1,6 +1,6 @@
+#Hello World
 ---
-Hello World
+##Page 2 
+###Next Vertical
 ---
-Page 2 Next Vertical
-+++
-Page 3
+##Page 3
