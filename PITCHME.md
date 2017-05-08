@@ -11,5 +11,5 @@ Last time, we built this circuit using a breadboard. This time we will be buildi
 ---
 #### Protoboards
 Perfboard | Perfboard with Rails
-----|----
+:----:|:----:
 <img src="/images/protoboard.JPG" width="400"> | <img src="/images/protoboardRails.jpg" width="400">
