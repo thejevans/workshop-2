@@ -1,6 +1,9 @@
-# Hello World
+# Soldering Workshop
+--------------------
+## Physics Makerspace
+### Thursday, May 11 2017
 ---
-## Page 2 
-### Next Vertical
+## Building on the Arduino workshop
+
 ---
 ## Page 3
