@@ -12,7 +12,7 @@ Last time, we built this circuit using a breadboard. This time we will be buildi
 #### Protoboards
 Perfboard | Stripboard | Hybrids
 :---:|:---:|:---:
-<img src="/images/protoboard.JPG" width="400"> | <img src="/images/protoboardRails.jpg" width="400"> |
+<img src="/images/protoboard.JPG" width="400"> | <img src="/images/stripboard.jpg" width="400"> |
 ---
 #### Soldering basics
 Component | Image
@@ -20,6 +20,6 @@ Component | Image
 Iron |
 Solder |
 Tip cleaner |
-Sponge | 
+Sponge |
 ---
 ####
