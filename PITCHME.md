@@ -11,6 +11,11 @@ Last time, we built this circuit using a breadboard. This time we will be buildi
 ---
 #### Arduinos for prototyping
 #### <span class="fragment" data-fragment-index="1">Bare integrated circuits for production</span>
+<span class="fragment" data-fragment-index="2"><img src="https://github.com/thejevans/workshop-2/raw/master/images/ATtiny85.jpg" width=400></span>
+
+Note:
+Get programmer for ICs
+ATtiny45 or 85 for small projects
 ---
 ### Protoboards
 Perfboard | Stripboard | Hybrids
