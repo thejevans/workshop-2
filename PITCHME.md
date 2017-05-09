@@ -12,7 +12,7 @@ Last time, we built this circuit using a breadboard. This time we will be buildi
 #### Protoboards
 Perfboard | Stripboard | Hybrids
 :---:|:---:|:---:
-<img src="/images/protoboard.JPG" width="400"> | ![stripboard](/images/stripboard.jpg) |
+<img src="/images/protoboard.JPG" width="400"> | <img src="https://raw.githubusercontent.com/thejevans/workshop-2/master//images/stripboard.JPG" width=400> |
 ---
 #### Soldering basics
 Component | Image
