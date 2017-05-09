@@ -35,8 +35,8 @@ Sponge | insert image here
 Wick | insert image here
 ---
 ### Today's project
-#### <span class="fragment" data-fragment-index="1">Flashlight
-#### insert image here</span>
+#### <span class="fragment" data-fragment-index="1">Flashlight</span>
+#### <span class="fragment" data-fragment-index="1">insert image here</span>
 ---
 ### Technique
 ![Video](https://www.youtube.com/embed/7-oX4UmOmjk)
