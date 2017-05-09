@@ -10,7 +10,7 @@ Note:
 Last time, we built this circuit using a breadboard. This time we will be building a more permanent device using protoboards
 ---
 #### Arduinos for prototyping
-#### Bare integrated circuits for production
+#### <span class="fragment" data-fragment-index="1">Bare integrated circuits for production</span>
 ---
 ### Protoboards
 Perfboard | Stripboard | Hybrids
