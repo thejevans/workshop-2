@@ -9,7 +9,6 @@
 Note:
 Last time, we built this circuit using a breadboard. This time we will be building a more permanent device using protoboards
 ---
-### Integrated circuits (ICs) for production
 #### Arduinos for prototyping
 #### Bare ICs for production
 ---
