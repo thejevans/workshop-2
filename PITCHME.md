@@ -33,3 +33,15 @@ Solder | insert image here
 Tip cleaner | insert image here
 Sponge | insert image here
 Wick | insert image here
+---
+### Today's project
+#### <span class="fragment" data-fragment-index="1">Flashlight</span>
+#### insert image here
+---
+### Technique
+![Video](https://www.youtube.com/embed/7-oX4UmOmjk)
+---
+### Layout
+Front | Back
+:---:|:---:
+insert image here | insert image here
