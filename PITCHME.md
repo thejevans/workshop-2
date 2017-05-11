@@ -20,7 +20,7 @@ ATtiny45 or 85 for small projects
 ### Protoboards
 Perfboard | Stripboard | Hybrids
 :---:|:---:|:---:
-<img src="/images/protoboard.JPG" width="400"> | <img src="/images/stripboard.jpg" width="400"> | <img src="https://github.com/thejevans/workshop-2/raw/master/images/hybrid.jpg" width=400>
+<img src="/images/protoboard.JPG" width="400"> | <img src="https://github.com/thejevans/workshop-2/raw/master/images/stripboard.jpg" width="400"> | <img src="https://github.com/thejevans/workshop-2/raw/master/images/hybrid.jpg" width=400>
 
 Note:
 For small or one-off projects, these universal boards are great, but for multiple copies of the final product, PCBs are better (very cheap)
@@ -28,11 +28,11 @@ For small or one-off projects, these universal boards are great, but for multipl
 ### Soldering basics
 Component | Image
 :---:|:---:
-Iron | <img src="/images/iron.jpg" width="200">
-Solder | <img src="/images/solder.jpg" width="200">
-Tip cleaner | <img src="/images/cleaner.jpg" width="200">
-Sponge | <img src="/images/sponge.JPG" width="200">
-Wick | <img src="/images/wick.jpg" width="200">
+Iron | <img src="https://github.com/thejevans/workshop-2/raw/master/images/iron.jpg" width="200">
+Solder | <img src="https://github.com/thejevans/workshop-2/raw/master/images/solder.jpg" width="200">
+Tip cleaner | <img src="https://github.com/thejevans/workshop-2/raw/master/images/cleaner.jpg" width="200">
+Sponge | <img src="https://github.com/thejevans/workshop-2/raw/master/images/sponge.JPG" width="200">
+Wick | <img src="https://github.com/thejevans/workshop-2/raw/master/images/wick.jpg" width="200">
 ---
 ### Today's project
 #### <span class="fragment" data-fragment-index="1">Flashlight</span>
