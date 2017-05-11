@@ -26,13 +26,13 @@ Note:
 For small or one-off projects, these universal boards are great, but for multiple copies of the final product, PCBs are better (very cheap)
 ---
 ### Soldering basics
-Component | Image
-:---:|:---:
-Iron | <img src="https://github.com/thejevans/workshop-2/raw/master/images/iron.jpg" width="100">
-Solder | <img src="https://github.com/thejevans/workshop-2/raw/master/images/solder.jpg" width="100">
-Tip cleaner | <img src="https://github.com/thejevans/workshop-2/raw/master/images/cleaner.jpg" width="100">
-Sponge | <img src="https://github.com/thejevans/workshop-2/raw/master/images/sponge.JPG" width="100">
-Wick | <img src="https://github.com/thejevans/workshop-2/raw/master/images/wick.jpg" width="100">
+Component | Image | Component | Image
+:---:|:---:|:---:|:---:
+Iron | <img src="https://github.com/thejevans/workshop-2/raw/master/images/iron.jpg" width="100"> | Sponge | <img src="https://github.com/thejevans/workshop-2/raw/master/images/sponge.JPG" width="100">
+Solder | <img src="https://github.com/thejevans/workshop-2/raw/master/images/solder.jpg" width="100"> | Wick | <img src="https://github.com/thejevans/workshop-2/raw/master/images/wick.jpg" width="100">
+Tip cleaner | <img src="https://github.com/thejevans/workshop-2/raw/master/images/cleaner.jpg" width="100"> | | 
+
+
 ---
 ### Today's project
 #### <span class="fragment" data-fragment-index="1">Flashlight</span>
